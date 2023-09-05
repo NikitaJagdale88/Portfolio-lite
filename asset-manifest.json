@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Portfolio-lite/static/css/main.bc6f725f.css",
+    "main.js": "/Portfolio-lite/static/js/main.07ae3cea.js",
+    "static/media/Passport2.jpg": "/Portfolio-lite/static/media/Passport2.1c8b58cba3392b179c27.jpg",
+    "index.html": "/Portfolio-lite/index.html",
+    "main.bc6f725f.css.map": "/Portfolio-lite/static/css/main.bc6f725f.css.map",
+    "main.07ae3cea.js.map": "/Portfolio-lite/static/js/main.07ae3cea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc6f725f.css",
+    "static/js/main.07ae3cea.js"
+  ]
+}
